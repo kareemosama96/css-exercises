@@ -1,0 +1,9 @@
+.external {
+    width: 100%;
+    font-size: 3em;
+    background-color:red;
+    color:white;
+    font-weight: bolder;
+    text-align: center;
+    font-family: sans-serif
+}
